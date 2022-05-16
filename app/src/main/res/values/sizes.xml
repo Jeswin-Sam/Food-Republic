@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_width">150sp</dimen>
+    <dimen name="card_height">170sp</dimen>
+
+    <dimen name="card_elevation">20dp</dimen>
+    <dimen name="card_radius">50dp</dimen>
+
+    <dimen name="image_width">140dp</dimen>
+    <dimen name="image_height">100dp</dimen>
+    <dimen name="image_margin">20dp</dimen>
+
+    <dimen name="text_margin">20dp</dimen>
+    <dimen name="card_text_size">24sp</dimen>
+
+
+
+
+</resources>
